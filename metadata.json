@@ -1,0 +1,6 @@
+{
+  "name": "MerchReset App",
+  "description": "A mobile-first application simulating an Android app to help retail workers manage and track merchandise resets and planogram updates.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
